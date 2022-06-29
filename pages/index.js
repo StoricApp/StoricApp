@@ -1,11 +1,10 @@
 import Head from 'next/head'
-import Container from './Components/Container'
-import { Flex, Heading, Input, Button } from '@chakra-ui/react'
+import Landing from '../src/views/Landing'
 
 const Index = () => { 
 
   return(
-    <Container></Container>
+    <Landing />
   )
 }
 
