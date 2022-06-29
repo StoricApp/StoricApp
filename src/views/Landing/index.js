@@ -20,7 +20,7 @@ export default function Landing() {
               fontSize = 'xl'
               color = {'gray'}
             >
-              Storage management that takes minutes, not days
+              Storage management that takes minutes, not hours
             </Text>
             <Spacer />
             <HStack spacing = {5}>
